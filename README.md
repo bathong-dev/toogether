@@ -63,7 +63,7 @@ List based on
 - Group sizes
 - More of the algorithm in the backend!
 
-mailto: damianstonedev@gmail.com
+mailto: bathonghuynh.ted@gmail.com
 
 # Initialization
 
@@ -157,4 +157,4 @@ The conventions or general rules for the structure of this project are the follo
 - You cannot sell this code in any form.
 - You cannot conduct business with this code in any form
 
-More information can be found in the LICENSE file in the root of the project. If you know of someone who is not respecting these limitations, please contact the owner at damianstonedev@gmail.com. The open-source world thrives on our respectful behavior ❤️
+More information can be found in the LICENSE file in the root of the project. If you know of someone who is not respecting these limitations, please contact the owner at bathonghuynh.ted@gmail.com. The open-source world thrives on our respectful behavior ❤️
